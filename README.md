@@ -1,2 +1,2 @@
 # AOC-2021
-Advent of code 2021 solutions
+As prep for AOC 2022 redoing 2021
